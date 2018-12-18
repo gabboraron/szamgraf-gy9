@@ -1,2 +1,2 @@
 # szamgraf-gy9
-grafika | 
+https://people.inf.elte.hu/puzsaai/esti/gyakorlat.html
